@@ -1,2 +1,2 @@
 # mec-super-market-project
-A student activity to build super market project at MEC academy.
+A development activity for students At MEC Academy, a super market project was developed using PHP MVC.
