@@ -1,5 +1,5 @@
 <!-- Header Section Begin -->
-<header class="header">
+<header class="header" style="border-bottom: 1px solid #f3f6fa;">
 	<div class="header__top">
 		<div class="container">
 			<div class="row">
