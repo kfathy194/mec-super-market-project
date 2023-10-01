@@ -10,6 +10,7 @@ require 'partials/desktop-nav.php';
 
 <section class="categories">
 	<div class="container">
+		<h3 class="my-5 text-center">Login to your account.</h3>
 		<div class="row justify-content-center">
 			<div class="col-lg-6 py-5">
 				<form method="post">
@@ -26,7 +27,7 @@ require 'partials/desktop-nav.php';
 						<input type="checkbox" class="form-check-input" id="exampleCheck1">
 						<label class="form-check-label" for="exampleCheck1">Check me out</label>
 					</div>
-					<button type="submit" class="btn btn-primary">Submit</button>
+					<button type="submit" class="btn btn-primary">Login</button>
 				</form>
 			</div>
 		</div>
